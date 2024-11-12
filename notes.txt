@@ -1,0 +1,17 @@
+Nov 10 , Notes:
+
+Types of css selectors
+1) Element selector (h1{CSS})
+2) Class selector (.className{CSS})
+3) Id selector (#id{CSS})
+4) Attribute selector (h1[attribute]{CSS} -- p[draggable]{CSS}> -- p[draggable="false"]{CSS})
+5) Universal selector (*{CSS}) 
+
+CSS Properties:
+Font color, fonr size, font weight, font family
+-- Color palette (has color codes) - colorhunt.co
+-- pixel vs point vs em (100% of parent, ex: 1em ==> applued element will have same font size as parent element) vs rem (100% of root element)
+
+
+open inspect in browser in mac - command + option + i
+open inspect in browser in windows - ctrl + shift + i
